@@ -1,0 +1,5 @@
+relembrando git e git hub , eu não lembrava como 
+fazer um commit usando o commit -m 
+ou ainda como como baixar do github usando git clone
+mais ainda não lembro como configurar o usuário.
+  
